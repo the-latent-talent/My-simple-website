@@ -1,0 +1,9 @@
+div{
+    background-color: burlywood;
+    padding: 10px;
+    border: 10px solid brown;
+    border-right: none;
+    border-bottom: none;
+    border-radius: 5px;
+    margin: 10px 15px 20px 25px;
+}
